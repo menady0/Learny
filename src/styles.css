@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(rgba(0,0,0,0.75), rgba(0,0,0,0.70)), url("../public/pexels-alteredsnaps-13258083.jpg");
+  background-size: cover;
+  color: white;
+}

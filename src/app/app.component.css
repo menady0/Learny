@@ -32,9 +32,6 @@ p {
 span .x {
   font-size: 46px;
 }
-span .x + div {
-  color: sandybrown;
-}
 .sub {
   margin-top: 20px;
 }
@@ -69,4 +66,7 @@ button{
 }
 button:hover {
   background-color: #4472C4;
+}
+.blue {
+  color: #4472C4;
 }

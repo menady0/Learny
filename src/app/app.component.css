@@ -2,6 +2,9 @@
 .hero {
   text-align: center;
 }
+h1 span {
+  color: #4472C4;
+}
 img {
   width: 150px;
 }
@@ -68,5 +71,7 @@ button:hover {
   background-color: #4472C4;
 }
 .blue {
-  color: #4472C4;
+  color: #181818;
+  font-weight: bold;
+  text-shadow: 0 0 5px white;
 }
